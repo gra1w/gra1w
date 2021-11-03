@@ -1,4 +1,4 @@
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on Copilot
+- 💞️ I’m looking to collaborate on AI Code assistance
 - 📫 To reach me zarugeos@gmail.com
